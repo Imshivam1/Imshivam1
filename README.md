@@ -5,7 +5,7 @@ I'm a passionate **Web Developer** and **Python Developer** with expertise in a 
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js, Flask
 - **Databases**: MongoDB, SQL
-- **DevOps**: Docker, Kubernetes
+- **DevOps**: Docker, Kubernetes, Azure
 - **Other**: Git, RESTful APIs
 
 🔭 Currently, I'm working on building exciting React.js apps and expanding my knowledge of Docker images.
