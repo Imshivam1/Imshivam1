@@ -16,7 +16,7 @@ I'm a passionate **Web Developer** and **Python Developer** with expertise in a 
 
 💬 Feel free to reach out if you have any questions, want to discuss collaboration opportunities, or just want to chat about tech!
 
-📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [Twitter](https://twitter.com/your-twitter-handle).
+📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/imshivam1/) or [Twitter](https://twitter.com/imshivam0123).
 
 ⚡ Fun fact: I'm a coffee enthusiast and love experimenting with different brewing methods to find the perfect cup!
 
