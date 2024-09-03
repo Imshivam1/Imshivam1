@@ -6,7 +6,7 @@ I'm a passionate **Web Developer** and **Python Developer** with expertise in a 
 - **Backend**: Node.js, Express.js, Flask
 - **Databases**: MongoDB, SQL
 - **DevOps**: Docker, Kubernetes, Azure
-- **Other**: Git, RESTful APIs
+- **Other**: Git, RESTful APIs, Vite
 
 🔭 Currently, I'm working on building exciting React.js apps and expanding my knowledge of Docker images.
 
