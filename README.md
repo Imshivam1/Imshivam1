@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate **Web Developer** and **Python Developer** with expertise in a variety of technologies including:
+I'm a passionate **Web Developer** with expertise in a variety of technologies including:
 
 - **Frontend**: HTML, CSS, JavaScript, React.js, GSAP, Three.js
 - **Backend**: Node.js, Express.js, Flask
