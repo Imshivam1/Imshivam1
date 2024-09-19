@@ -23,5 +23,7 @@ I'm a passionate **Web Developer** with expertise in a variety of technologies i
 Let's build awesome things together! 😄
 
 <p align="center">
-  Profile Visits: <img src="https://counterapi.com/api/counter?user=your-username&label=Profile%20Visits&color=brightgreen&style=flat-square" alt="Profile Visit Counter">
+  Profile Visits: 
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyour-profile-url&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false" alt="Profile Visit Counter">
 </p>
+
