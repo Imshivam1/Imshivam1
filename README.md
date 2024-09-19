@@ -21,3 +21,7 @@ I'm a passionate **Web Developer** with expertise in a variety of technologies i
 ⚡ Fun fact: I'm a coffee enthusiast and love experimenting with different brewing methods to find the perfect cup!
 
 Let's build awesome things together! 😄
+
+<p align="center">
+  Profile Visits: <img src="https://counterapi.com/api/counter?user=your-username&label=Profile%20Visits&color=brightgreen&style=flat-square" alt="Profile Visit Counter">
+</p>
