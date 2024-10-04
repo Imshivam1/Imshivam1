@@ -2,11 +2,11 @@
 
 I'm a passionate **Web Developer** with expertise in a variety of technologies including:
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, GSAP, Three.js
+- **Frontend**: HTML, CSS, JavaScript, React.js, GSAP, Three.js, Next.js
 - **Backend**: Node.js, Express.js, Flask
 - **Databases**: MongoDB, SQL
 - **DevOps**: Docker, Kubernetes, Azure
-- **Other**: Git, RESTful APIs, Vite, Postman, JWT, Eslint
+- **Other**: Git, RESTful APIs, Vite, Postman, JWT, Eslint, Sentry, Aceternity UI, Framer Motion
 
 🔭 Currently, I'm working on building exciting React.js apps and expanding my knowledge of Docker images.
 
