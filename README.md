@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello fellow developers there! 👋
 
 I'm a passionate **Web Developer** with expertise in a variety of technologies including:
 
