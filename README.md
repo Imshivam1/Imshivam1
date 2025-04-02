@@ -6,7 +6,8 @@ I'm a passionate **Web Developer** with expertise in a variety of technologies i
 - **Backend**: Node.js, Express.js, Flask, Java
 - **Databases**: MongoDB, SQL
 - **DevOps**: Docker, Kubernetes, Azure
-- **Other**: Git, RESTful APIs, Vite, Postman, JWT, Eslint, Sentry, Aceternity UI, Framer Motion
+- **Other**: Git, RESTful APIs, Vite, Postman, JWT, Eslint, Sentry, Aceternity UI, Framer Motion,
+  NPM, Maven, Passport.js
 
 🔭 Currently, I'm working on building exciting React.js apps and expanding my knowledge of Docker images.
 
